@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am Bryant Conti, Full Stack Developer (Currently practice with development on my own)
+
 <!--
 **bconti123/bconti123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
