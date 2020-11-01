@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### I am Bryant Conti, Full Stack Developer (Currently practice with development on my own)
+### I am Bryant, Full Stack Developer (Currently practice with development on my own)
+
+Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoy working with programming langauge, system design and IT infrastructure. 
 
 <!--
 **bconti123/bconti123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
