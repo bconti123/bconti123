@@ -4,7 +4,7 @@
 
 Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoy working with programming langauge, system design and IT infrastructure. 
 
-#### I'm currently working on Bay Area Asian Deaf Association website, my own personal website, taking AWS cloud challenge about hosting static website on personal website, and own cloud IT template with Terraform.
+#### I'm currently working on Bay Area Asian Deaf Association website, my own personal website, taking AWS cloud challenge about hosting static website on personal website, and own cloud IT template with Terraform as infrastructure code.
 #### I'm currently learning Golang, AWS SysOps/Developer, and DevOps Engineer path.
 #### Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over states around in USA. Achievement: Regional top 8 one time, YCS Day 2, YCS VIP, WCQ Day 2. My goal is to win YCS, WCQ, or World Championship as premier event as first deaf player in history. 
 
