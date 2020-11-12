@@ -14,6 +14,9 @@ I'm currently learning Golang, AWS SysOps/Developer, and DevOps Engineer path.
 <br/>
 Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over states around in USA. Achievement: Regional top 8 one time, YCS Day 2, YCS VIP, WCQ Day 2. My goal is to win YCS, WCQ, or World Championship as premier event as first deaf player in history. 
 
+![Bryant's github stats](https://github-readme-stats.vercel.app/api?username=bconti123&show_icons=true&theme=radical)
+
+
 <!--
 **bconti123/bconti123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
