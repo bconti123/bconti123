@@ -45,7 +45,7 @@ Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over s
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" alt="Firebase" />
 <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>
-<h2>Database</h2>
+<h2>Databases</h2>
 <p style="text-align:center;">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
