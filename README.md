@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p>
 I am Bryant, Full Stack Developer (Currently practice with development on my own)
 <br />
 <br />
@@ -13,7 +13,7 @@ I'm currently learning Golang, AWS SysOps/Developer, and DevOps Engineer path.
 <br/>
 <br/>
 Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over states around in USA. Every premier events had 800 to 2300+ players attendance. I love to meet new many players! Achievement: Regional top 8 one time, YCS Day 2, YCS VIP, WCQ Day 2. My goal is to win YCS, WCQ, or World Championship as premier event as first deaf player in history. 
-
+</p>
 <h2> Programming Langauges <h2>
 <p style="text-align:center;">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
