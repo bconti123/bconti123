@@ -59,6 +59,13 @@ Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over s
 
 ![Bryant's github stats](https://github-readme-stats.vercel.app/api?username=bconti123&show_icons=true&hide=stars)
 
+<h2> Feel free to connect with me. </h2>
+<p>
+<a href="https://www.linkedin.com/in/bryant-conti/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+
+
 
 <!--
 **bconti123/bconti123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
