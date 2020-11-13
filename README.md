@@ -15,7 +15,7 @@ I'm currently learning Golang, AWS SysOps/Developer, and DevOps Engineer path.
 Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over states around in USA. Every premier events had 800 to 2300+ players attendance. I love to meet new many players! Achievement: Regional top 8 one time, YCS Day 2, YCS VIP, WCQ Day 2. My goal is to win YCS, WCQ, or World Championship as premier event as first deaf player in history. 
 </p>
 <h2> Programming Langauges <h2>
-<p style="text-align:center;">
+<p>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -38,7 +38,7 @@ Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over s
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" />
 </p> 
 <h2>Hosting/SaaS</h2>
-<div style="text-align=center;">
+<div style="text-align:center;">
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure" />
