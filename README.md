@@ -3,7 +3,7 @@
 I am Bryant, Full Stack Developer (Currently practice with development on my own)
 <br />
 <br />
-Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoy working with programming langauge, system design, network system, and IT infrastructure projects. 
+Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoy working with programming langauge, system design, network system, and IT infrastructure team projects. 
 <br/>
 <br/>
 I'm currently working on Bay Area Asian Deaf Association website, my own personal website, taking AWS cloud challenge about hosting static website on personal website, and own cloud IT template with Terraform as infrastructure code.
