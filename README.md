@@ -3,7 +3,11 @@
 I am Bryant, Full Stack Developer (Currently practice with development on my own)
 <br />
 <br />
+<<<<<<< HEAD
 Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoyed working with programming langauge, system design, network system, and IT infrastructure team projects. 
+=======
+Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoy working with programming langauge, system design, network system, and IT infrastructure team projects from my courseworks. 
+>>>>>>> a4add93249e09900c46550459e4e8daaddca574a
 <br/>
 <br/>
 I'm currently working on Bay Area Asian Deaf Association website, my own personal website, taking AWS cloud challenge about hosting static website on personal website, and own cloud IT template with Terraform as infrastructure code.
@@ -60,6 +64,9 @@ Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over s
 <p>
 <a href="https://www.linkedin.com/in/bryant-conti/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+
+
 
 
 
