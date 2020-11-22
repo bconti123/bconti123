@@ -3,13 +3,13 @@
 I am Bryant, Full Stack Developer (Currently practice with development on my own)
 <br />
 <br />
-Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoy working with programming langauge, system design, network system, and IT infrastructure team projects. 
+Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoyed working with programming langauge, system design, network system, and IT infrastructure team projects. 
 <br/>
 <br/>
 I'm currently working on Bay Area Asian Deaf Association website, my own personal website, taking AWS cloud challenge about hosting static website on personal website, and own cloud IT template with Terraform as infrastructure code.
 <br/>
 <br/>
-I'm currently learning Golang, AWS SysOps/Developer, and DevOps Engineer path.
+I'm currently learning Golang, AWS SysOps/Developer courses, and DevOps Engineer path.
 <br/>
 <br/>
 Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over states around in USA. Every premier events had 800 to 2300+ players attendance. I love to meet new many players! Achievement: Regional top 8 one time, YCS Day 2, YCS VIP, WCQ Day 2. My goal is to win YCS, WCQ, or World Championship as premier event as first deaf player in history. 
