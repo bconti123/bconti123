@@ -14,7 +14,7 @@ I'm currently learning Golang, AWS SysOps/Developer courses, and DevOps Engineer
 <br/>
 Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over states around in USA. Every premier events had 800 to 2300+ players attendance. I love to meet new many players! Achievement: Regional top 8 one time, YCS Day 2, YCS VIP, WCQ Day 2. My goal is to win YCS, WCQ, or World Championship as premier event as first deaf player in history. 
 </p>
-<h2> Programming Langauges, Frameworks, Databases, and other Technical Services/Tools <h2>
+<h2> Programming Langauges, Frameworks/Libraries, Databases, and other Technical Services/Tools <h2>
 <p align="center">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
