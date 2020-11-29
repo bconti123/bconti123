@@ -53,7 +53,7 @@ Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over s
 
 <div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bconti123&layout=compact&hide_title=true)
-<div>
+</div>
 
 ![Bryant's github stats](https://github-readme-stats.vercel.app/api?username=bconti123&show_icons=true&hide=stars)
 
