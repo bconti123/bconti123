@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-I am Bryant, Full Stack Developer (Currently practice with development on my own)
+I am Bryant, Web Developer
 <br />
 <br />
 Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoyed working with programming langauge, system design, network system, and IT infrastructure team projects. 
