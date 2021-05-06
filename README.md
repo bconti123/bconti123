@@ -3,16 +3,13 @@
 I am Bryant, Web Developer
 <br />
 <br />
-Recent graduation from CSUN (May 2020) majoring CIT in Bachelor of Science. I enjoyed working with programming langauge, system design, network system, and IT infrastructure team projects. 
+I graduated from CSUN (May 2020) with majoring CIT in a Bachelor of Science degree. I enjoyed working with programming languages, system design, network systems, and IT infrastructure team projects. 
 <br/>
 <br/>
-I'm currently working on Bay Area Asian Deaf Association website, my own personal website, taking AWS cloud challenge about hosting static website on personal website, and own cloud IT template with Terraform as infrastructure code.
+I'm currently learning AWS SysOps/Developer courses and the DevOps Engineer path.
 <br/>
 <br/>
-I'm currently learning AWS SysOps/Developer courses and DevOps Engineer path.
-<br/>
-<br/>
-Fun fact: I am a pro Yu-Gi-Oh! player. I traveled regionals, YCS, and WCQ over states around in USA. Every premier events had 800 to 2300+ players attendance. I love to meet new many players! Achievement: Regional top 8 one time, YCS Day 2, YCS VIP, WCQ Day 2. My goal is to win YCS, WCQ, or World Championship as premier event as first deaf player in history. 
+Fun fact: I am a pro Yu-Gi-Oh! Player. I traveled regionals, YCS, and WCQ over states around in USA. Every premier event had 800 to 2300+ players attendance. I love to meet many new players! Achievement: Regional top 8 one time, YCS Day 2, YCS VIP, WCQ Day 2. My goal is to win YCS, WCQ, or World Championship as the premier event as the first deaf player in history.
 </p>
 <h2> Programming Langauges, Frameworks/Libraries, Databases, and other Technical Services/Tools <h2>
 <p align="center">
