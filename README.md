@@ -9,7 +9,6 @@ I graduated from CSUN (May 2020) with majoring CIT in a Bachelor of Science degr
 I'm currently learning AWS SysOps/Developer courses and the DevOps Engineer path. I completed <a href="https://blog.bryantconti.com/Cloud-Resume-Challenge/">Cloud Resume Challenge</a> project.
 <br/>
 <br/>
-Fun fact: I am a pro Yu-Gi-Oh! Player. I traveled regionals, YCS, and WCQ over states around in USA. Every premier event had 800 to 2300+ players attendance. I love to meet many new players! Achievement: Regional top 8 one time, YCS Day 2, YCS VIP, WCQ Day 2. My goal is to win YCS, WCQ, or World Championship as the premier event as the first deaf player in history.
 </p>
 
 <h2> Programming Langauges, Frameworks/Libraries, Databases, and other Technical Services/Tools <h2>
