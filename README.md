@@ -45,24 +45,16 @@ I'm currently learning AWS SysOps/Developer courses and the DevOps Engineer path
 <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>
 
-<!--START_SECTION:waka-->
-
-```text
-Python       1 hr 1 min      ████████████▓░░░░░░░░░░░░   50.93 %
-JavaScript   52 mins         ███████████░░░░░░░░░░░░░░   43.36 %
-YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-```
-
-<!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bconti123&layout=compact&hide_title=true&count_private=true)
 
 
 ![Bryant's github stats](https://github-readme-stats.vercel.app/api?username=bconti123&show_icons=true&hide=stars&count_private=true)
 
+<h2>Weekly development Breakdown</h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 <h2> Feel free to connect with me. </h2>
 <p>
 <a href="https://www.linkedin.com/in/bryant-conti/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
