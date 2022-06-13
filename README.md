@@ -45,8 +45,8 @@ I'm currently learning AWS SysOps/Developer courses and the DevOps Engineer path
 <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>
 
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bconti123&layout=compact&hide_title=true&count_private=true)
 
