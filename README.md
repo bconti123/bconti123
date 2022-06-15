@@ -55,12 +55,12 @@ I'm currently learning AWS SysOps/Developer courses and the DevOps Engineer path
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 1 min      ████████████▓░░░░░░░░░░░░   50.93 %
-JavaScript   52 mins         ███████████░░░░░░░░░░░░░░   43.36 %
-YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+JavaScript   1 hr 28 mins    ███████████▒░░░░░░░░░░░░░   45.99 %
+Python       1 hr 1 min      ████████░░░░░░░░░░░░░░░░░   32.08 %
+Markdown     24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+YAML         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
