@@ -55,10 +55,10 @@ I'm currently learning AWS SysOps/Developer courses and the DevOps Engineer path
 <!--START_SECTION:waka-->
 
 ```text
-C++        3 hrs 55 mins   █████████████████████░░░░   83.34 %
-Lua        45 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C++        4 hrs 48 mins   ██████████████████████░░░   88.57 %
+Lua        35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
