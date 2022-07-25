@@ -55,10 +55,7 @@ I'm currently learning AWS SysOps/Developer courses and the DevOps Engineer path
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          ████████████▒░░░░░░░░░░░░   48.79 %
-HTML         0 secs          ███████░░░░░░░░░░░░░░░░░░   27.89 %
-C++          0 secs          █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
