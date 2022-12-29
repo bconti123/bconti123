@@ -6,11 +6,9 @@ I am Bryant, Web Developer
 I graduated from CSUN (May 2020) with majoring CIT in a Bachelor of Science degree. I enjoyed working with programming languages, system design, network systems, and IT infrastructure team projects. 
 <br/>
 <br/>
-I'm currently learning AWS SysOps/Developer courses and the DevOps Engineer path. I completed <a href="https://blog.bryantconti.com/Cloud-Resume-Challenge/">Cloud Resume Challenge</a> project.
-<br/>
-<br/>
-</p>
 
+</p>
+<!-- 
 <h2> Programming Langauges, Frameworks/Libraries, Databases, and other Technical Services/Tools <h2>
 <p align="center">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -44,22 +42,20 @@ I'm currently learning AWS SysOps/Developer courses and the DevOps Engineer path
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" alt="Firebase" />
 <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>
-
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bconti123&layout=compact&hide_title=true&count_private=true)
 
 
 ![Bryant's github stats](https://github-readme-stats.vercel.app/api?username=bconti123&show_icons=true&hide=stars&count_private=true)
 
-<h2>Weekly development Breakdown</h2>
+
+<!-- <h2>Weekly development Breakdown</h2> -->
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
 
-<!--END_SECTION:waka-->
-  
+
+<!--END_SECTION:waka-->  
 <h2> Feel free to connect with me. </h2>
 <p>
 <a href="https://www.linkedin.com/in/bryant-conti/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
