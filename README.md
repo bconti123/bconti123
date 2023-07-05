@@ -6,7 +6,7 @@ I am Bryant, Software Engineer
 I graduated from CSUN (May 2020) with majoring CIT in a Bachelor of Science degree. I enjoyed working with programming languages, system design, network systems, and IT infrastructure team projects. 
 <br/>
 <br/>
-I am currently working with full-stack capstone project in my software engineering bootcamp. 
+I am currently a student working with full-stack capstone project in my software engineering bootcamp since I joined in Jan 2023. 
 
 </p>
 <!-- 
