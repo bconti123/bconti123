@@ -16,6 +16,8 @@ In the long term, I aspire to collaborate on cutting-edge projects that push the
 
 I'm always eager to connect with fellow tech enthusiasts, mentors, and potential collaborators. Let's explore opportunities to learn, grow, and code together in the world of Software Engineering!
 
+<a href="https://www.linkedin.com/in/bryant-conti/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 ## Skills
 
 - Programming: HTML, CSS, JavaScript, Python
@@ -75,11 +77,6 @@ Feel free to explore my projects and repositories below. Let's make some code ma
 
 
 <!--END_SECTION:waka-->  
-<h2> Feel free to connect with me. </h2>
-<p>
-<a href="https://www.linkedin.com/in/bryant-conti/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
 
 
 
