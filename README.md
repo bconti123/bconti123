@@ -1,14 +1,29 @@
-### Hi there 👋
-<p>
-I am Bryant, Software Engineer
-<br />
-<br />
-I graduated from CSUN (May 2020) with majoring CIT in a Bachelor of Science degree. I enjoyed working with programming languages, system design, network systems, and IT infrastructure team projects. 
-<br/>
-<br/>
-I am currently a student working with full-stack capstone project in my software engineering bootcamp since I joined in Jan 2023. 
+## About me
 
-</p>
+I'm a passionate and driven Software Engineering Trainee at Springboard, on a mission to become a skilled software engineer. My journey into the world of code was inspired by a deep fascination for solving complex problems with innovative technology solutions.
+
+## Learning Journey
+
+🚀 Currently, I'm dedicated to honing my skills through continuous learning and hands-on experience. My goal is to earn the Software Engineering Career Track certification at Springboard, a pivotal milestone in my professional journey.
+
+🌟 One of the most exciting moments on my coding path was when I developed a robust application that streamlined a manual, time-consuming process. This experience reaffirmed my commitment to pursuing a career in Software Engineering.
+
+## Aspirations
+
+In the long term, I aspire to collaborate on cutting-edge projects that push the boundaries of technology. My passion for innovation and excellence drives me to seek opportunities where I can contribute my skills and knowledge.
+
+## Let's Connect
+
+I'm always eager to connect with fellow tech enthusiasts, mentors, and potential collaborators. Let's explore opportunities to learn, grow, and code together in the world of Software Engineering!
+
+## Skills
+
+- Programming: HTML, CSS, JavaScript, Python
+- Libraries/Frameworks: Flask, Bootstrap, Express.js, jQuery, React.js, Node.js, ES6+
+- Database: SQL, PostgreSQL, Amazon DynamoDB
+- Technologies: Amazon S3, Amazon Route 53, Amazon CloudFront, GitHub, Render, Cloudinary
+
+Feel free to explore my projects and repositories below. Let's make some code magic happen! 🔥
 <!-- 
 <h2> Programming Langauges, Frameworks/Libraries, Databases, and other Technical Services/Tools <h2>
 <p align="center">
