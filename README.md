@@ -33,5 +33,5 @@ Feel free to explore my projects and repositories below. Let's make some code ma
 
 <!-- ![Bryant's github stats](https://github-readme-stats.vercel.app/api?username=bconti123&show_icons=true&hide=stars&count_private=true) -->
 
-![Bryant's github stats](https://github-readme-stats-pro.vercel.app/api?username=bconti123&show_icons=true&hide=stars&count_private=true)
+<!-- ![Bryant's github stats](https://github-readme-stats-pro.vercel.app/api?username=bconti123&show_icons=true&hide=stars&count_private=true) -->
 
