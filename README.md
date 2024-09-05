@@ -1,6 +1,6 @@
 ## About me
 
-I'm a passionate and driven Certified Software Engineer, having completed the Software Engineering Career Track certification at Springboard. My journey into the world of code was inspired by a deep fascination for solving complex problems with innovative technology solutions.
+I'm a passionate and driven Software Engineer, having completed the Software Engineering Career Track certification at Springboard. My journey into the world of code was inspired by a deep fascination for solving complex problems with innovative technology solutions.
 
 ## Learning Journey
 
