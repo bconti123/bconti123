@@ -31,9 +31,9 @@ Feel free to explore my projects and repositories below. Let's make some code ma
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bconti123&layout=compact&hide_title=true&count_private=true) -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bconti123&layout=compact&hide_title=true&count_private=true" alt="Top Langs" />
-</div>
+</div> -->
 
 <!-- ![Bryant's github stats](https://github-readme-stats.vercel.app/api?username=bconti123&show_icons=true&hide=stars&count_private=true) -->
 
