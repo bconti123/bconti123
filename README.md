@@ -26,8 +26,9 @@
   
 ## Let's Connect
 
-  - <a href="https://www.linkedin.com/in/bryant-conti/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  - Explore my repositories below
+  <a href="https://www.linkedin.com/in/bryant-conti/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  
+  Explore my repositories below
 
 
 
