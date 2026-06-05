@@ -1,6 +1,6 @@
 # Hi There! 👋, I am Bryant Conti
 
-**Software Engineeer** with a strong focus on full-stack and backend development. I build reliable, data-driven systems and contribute to real-world open-source projects.
+**Software Engineer** with a strong focus on full-stack and backend development. I build reliable, data-driven systems and contribute to real-world open-source projects.
 
 ## About me
   - Software Engineer with a **B.S. In Computer Information Technology**
